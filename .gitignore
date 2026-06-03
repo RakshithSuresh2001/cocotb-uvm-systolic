@@ -1,0 +1,8 @@
+__pycache__/
+sim_build/
+obj_dir/
+*.vcd
+*.log
+results.xml
+tr_db.log
+*.pyc
