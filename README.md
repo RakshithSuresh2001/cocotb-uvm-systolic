@@ -99,7 +99,7 @@ pip install cocotb==1.9.1 uvm-python==0.4.0
 ## Related Projects
 
 - [uvm_systolic](https://github.com/RakshithSuresh2001/uvm_systolic): SystemVerilog UVM-style testbench for the same DUT, 1337/1337 checks, 15/15 coverage bins, 5 SVA properties
-- [PicoRISCV-SoC](https://github.com/RakshithSuresh2001/PicoRISCV-SoC): PicoRV32 core integrated with this systolic array over AXI-Lite, taped out on ASAP7 at 500 MHz
+- [PicoRISCV-SoC](https://github.com/RakshithSuresh2001/PicoRISCV-SoC): PicoRV32 core integrated with this systolic array over AXI-Lite, implemented RTL-to-GDS on ASAP7 at 500 MHz
 - [Systolic-Array](https://github.com/RakshithSuresh2001/Systolic-Array): Standalone systolic array submitted to the ChipFoundry CI2609 Sky130 shuttle
 
 ## Author
